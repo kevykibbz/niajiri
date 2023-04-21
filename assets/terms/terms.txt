@@ -1,0 +1,29 @@
+
+
+Eligibility: Users must be at least 18 years old to use the app.
+
+User Conduct: Users are responsible for their conduct on the app and must not engage in any illegal, offensive, or inappropriate behavior.
+
+User Information: Users must provide accurate and complete information about themselves, their skills, and their qualifications.
+
+Payment: Employers will be responsible for paying workers directly. The app will not charge any fees for its services.
+
+Disclaimer of Liability: The app will not be liable for any damages, losses, or injuries arising from the use of the app or any job obtained through the app.
+
+Intellectual Property: The app and all its content are protected by intellectual property laws and may not be used without permission.
+
+Termination: The app reserves the right to terminate or suspend user accounts at any time for any reason.
+
+Regarding the code for the app, here are some key considerations:
+
+Security: The app should be designed with security in mind to protect user information and prevent unauthorized access.
+
+User Interface: The app should have a user-friendly interface that is easy to navigate and use.
+
+Compatibility: The app should be compatible with multiple devices and operating systems.
+
+Efficiency: The app should be efficient and not consume too much memory or processing power.
+
+Data Storage: The app should store data in a secure and efficient manner.
+
+Testing: The app should undergo thorough testing to ensure that it works as intended and does not have any bugs or glitches

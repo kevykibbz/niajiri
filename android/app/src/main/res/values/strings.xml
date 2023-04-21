@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Niajiri</string>
+    <string name="facebook_app_id">1248637319079249</string>
+    <string name="facebook_client_token">68b5dc27a92ff69e7fb51ea1e25e4e3f</string>
+    <string name="fb_login_protocol_scheme">fb1248637319079249</string>
+</resources>
